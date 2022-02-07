@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 2px solid transparent;
+    width: 90%;
+    margin: 70px auto;
+    display: grid;
+    grid-template-rows: 300px 300px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 300px));
+    grid-gap: 20px;
+    grid-auto-rows: 300px;
+    font-size: 50px;
+}
+
+.cat1 {
+    background-color: rgb(121, 6, 6);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat2 {
+    background-color: rgb(92, 92, 15);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat3 {
+    background-color: rgb(17, 65, 54);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat4 {
+    background-color: rgb(247, 48, 81);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat5 {
+    background-color: rgb(96, 243, 96);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat6 {
+    background-color: rgb(189, 138, 44);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat7 {
+    background-color: rgb(105, 55, 105);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat8 {
+    background-color: rgb(236, 195, 154);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat9 {
+    background-color: rgb(56, 5, 56);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat10 {
+    background-color: rgb(37, 72, 4);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat11 {
+    background-color: rgb(250, 98, 71);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat12 {
+    background-color: rgb(195, 136, 236);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cat1:hover {
+    background-color: blue;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat2:hover {
+    background-color: red;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat3:hover {
+    background-color: yellow;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat4:hover {
+    background-color: pink;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat5:hover {
+    background-color: brown;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat6:hover {
+    background-color: fuchsia;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat7:hover {
+    background-color: green;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat8:hover {
+    background-color: goldenrod;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat9:hover {
+    background-color: gray;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat10:hover {
+    background-color: orange;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat11:hover {
+    background-color: orangered;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
+
+.cat12:hover {
+    background-color: olivedrab;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 8px 8px 6px black;
+}
